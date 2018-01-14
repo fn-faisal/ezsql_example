@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\easysql\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d05221dffa6db96c54a5f4797398fa902bb8c72b">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_8a35c11bf5e8ce4b3e2631cc49eacdb25d21d487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\ee01a65972fcabb01df9b1983e63aff0f1e306b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_2510d125910c0cc2cd64fc7a1b6646c396d1b9c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\10440012e0d64f96cd5b61b9ae5d4fddf2b840c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_65b94fc609a76db0ac8a65b8b4315be5a04563cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\664054344db34f7c87f00e28743e37d0838b3070\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_4d71be82107b096f55ef567c465102d8ba7c5307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\091f2cb943e99891e76d53d2eaa6d0b63a471d78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_266dc25e7325fbb3fa653493b141cdc4a85a2a56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e7f9929637d9e9d8758fd43f580dbf5bb5693c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\f7a3bb6ab9e3322bd11b0e7f1a355b09625bca0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_71e6e8ee1ae85b6c2ebab4d45ac747f26557857e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\263193059b5082554a8e021747c1d5f3aa78c894\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_e4414fd4a3949221f3d90f0ca58de5379fa0ea9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\d3f1d857cb7212710b071406d49fe83d94bb374f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_67f83f637fcfe7b42123e96a9ed831c89a41a6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\a82514806cdfe00ab4c7cb1f756914043e9acd45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_70a3f231f28cf70e3e42cc8b88e2835472c12ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\7d05291e9e976f3f4cafd90366d15337070c6226\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_01419eba6152d3d2ea9eaa7cbd71a8297a974f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\.android\build-cache\be48366f4f2ef6d53ceff8dc9651d30196efd74f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\classes_ebd6dfcd8119a65af0f150d63941eda60f373ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisa\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Workspace\cv_projs\( Andorid Java API ) EzSql\Example Project\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_479de546d79bc18f3d4d85d22d43d1119bde57ab.jar" />
+    </item>
+
+</items>
